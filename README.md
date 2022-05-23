@@ -1,17 +1,5 @@
-# flutter_ui
+Hello everyone,
 
-A new Flutter project.
+This is source code of https://www.youtube.com/watch?v=EyEECZ3IOx0&t=640s 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# youtubeLoginPageUI
+![Simulator Screen Shot - iPhone 12 - 2022-05-23 at 22 09 20](https://user-images.githubusercontent.com/31697908/169889511-5a4dbf2b-6cd7-4eea-838f-a6659bbca727.png)
